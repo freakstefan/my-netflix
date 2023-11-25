@@ -564,3 +564,108 @@ html {
     font-size: 1rem;
   }
 }
+
+@media (max-width: 36.7em) {
+  .nav h1 {
+    font-size: 2rem;
+  }
+
+  .btn1 {
+    padding: 0.4rem 1rem;
+    font-size: 1.5rem;
+    background: red;
+    color: white;
+    border-radius: 0.8rem;
+  }
+
+  .email input {
+    padding: 1rem 2rem;
+  }
+
+  .email {
+    padding-left: 1rem;
+  }
+
+  .btn2 {
+    padding: 1rem 1.5rem;
+  }
+
+  .movies {
+    padding-left: 3rem;
+  }
+
+  .img1 {
+    width: 30rem;
+  }
+
+  .span-image1 {
+    position: absolute;
+    left: 8rem;
+    bottom: 8rem;
+
+    padding: 0.5rem 10rem 1rem 0.5rem;
+  }
+
+  .girl {
+    position: relative;
+    padding-left: 1rem;
+    padding-top: none;
+    padding-bottom: 15rem;
+  }
+
+  .img2 {
+    width: 4rem;
+  }
+
+  .download h2 {
+    font-size: 2.5rem;
+  }
+
+  .download h3 {
+    font-size: 1rem;
+  }
+
+  .section4 {
+    padding-left: 6rem;
+  }
+
+  .questions {
+    padding-left: 8rem;
+  }
+
+  .main-container {
+    padding-left: 10rem;
+  }
+
+  .ready {
+    padding-left: 2rem;
+  }
+}
+
+@media (max-width: 29.8em) {
+  .nav h1 {
+    padding-left: 5rem;
+  }
+
+  .nav button {
+    margin-right: 5rem;
+  }
+
+  .movies h1 {
+    font-size: 2rem;
+  }
+
+  .movies h3 {
+    padding-left: 5rem;
+    font-size: 1.2rem;
+  }
+
+  .movies h4 {
+    padding-left: 0.2rem;
+    font-size: 1.2rem;
+  }
+
+  .boy {
+    width: 30rem;
+  }
+}
